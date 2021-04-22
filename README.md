@@ -2,7 +2,7 @@
 Raw EEG (biosemi) to ERP and trial-by-trial data for our auditory oddball duration tone paradigm
 This pipeline was created in 2019 by Douwe Horsthuis and Ana Francisco for their oddball papers. There is a more updated version that can be used for all types of paradigms in https://github.com/DouweHorsthuis/EEG-Raw-to-ERP
 
-Francisco, A. A., Berruti, A. S., Kaskel, F. J., Foxe, J. J., & Molholm, S. (in press). Assessing the integrity of auditory processing and sensory memory in adults with cystinosis (CTNS gene mutations). The Orphanet Journal of Rare Diseases.
+Francisco, A. A., Berruti, A. S., Kaskel, F. J., Foxe, J. J., & Molholm, S. (2021). Assessing the integrity of auditory processing and sensory memory in adults with cystinosis (CTNS gene mutations). The Orphanet Journal of Rare Diseases.
 
 Francisco, A. A., Foxe, J. J., Horsthuis, D. J., & Molholm, S. (2020). Impaired auditory sensory memory in Cystinosis despite typical sensory processing: A high-density electrical mapping study of the mismatch negativity (MMN). NeuroImage: Clinical, 25, 102170.
 
